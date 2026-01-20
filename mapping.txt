@@ -1,0 +1,6 @@
+B6118D5900,vlc,http://192.168.1.111:32469/object/58cfd5d86ee57dbbe3ff/file.mkv
+B6118D5900,
+B6118D59001,vlc,C:\Users\user\Downloads\Music\JohannSebastianBach-01-GoldbergVariationsBwv.988-Aria.flac
+B6118D59,vlc,C:\Users\user\Downloads\SampleVideo_1280x720_1mb.MP4
+16F16159,retroarch,C:\Users\user\Downloads\Aladdin.zip,fceumm_libretro.dll
+
